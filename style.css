@@ -1,0 +1,25 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.center {
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
+
+.description{
+  font-size: 15px;
+  text-align:center;
+  padding-left: 260px;
+  width:900px;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+  background-color: lightblue;
+}
